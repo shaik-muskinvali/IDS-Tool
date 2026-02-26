@@ -20,8 +20,9 @@ This project is a basic Intrusion Detection and Prevention System (ids) designed
 ## Usage
 
 1. Edit the `ids.py` script and set the `path` variable to the directories you want to monitor.
+2. NOTE: Manually you should create "logs" , "lab" folder
 
-2. Run the IDS:
+3. Run the IDS:
 `python ids.py`
 
 The IDS will begin monitoring the specified directory and the host system for any suspicious activity. Detected events will be logged in the following files:
