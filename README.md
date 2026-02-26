@@ -13,7 +13,7 @@ This project is a basic Intrusion Detection and Prevention System (ids) designed
 ## Installation
 
 1. Clone the repository:
-`git clone https://github.com/hmzakhalid/Intrusion-Detection-Prevention-System`
+`git clone https://github.com/shaik-muskinvali/IDS-Tool`
 2. Install the required Python packages:
 `pip install -r requirements.txt`
 
