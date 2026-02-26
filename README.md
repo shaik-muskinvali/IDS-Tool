@@ -1,4 +1,4 @@
-# Intrusion Detection and Prevention System (ids)
+# Intrusion Detection System (IDS)
 #### Author:https://github.com/shaik-muskinvali
 
 This project is a basic Intrusion Detection and Prevention System (ids) designed to monitor various activities on a host system, detect suspicious behavior, and alert the user to possible threats. The IDS includes file system, network, and process monitoring, as well as anomaly detection features.
