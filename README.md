@@ -1,7 +1,17 @@
 # Intrusion Detection System (IDS)
 #### Author:https://github.com/shaik-muskinvali
 
+Intrusion Detection System (IDS) with GUI for SOC monitoring. Built using Python and AI-assisted development. Includes anomaly detection, structured event IDs, and real-time logging.
 This project is a basic Intrusion Detection and Prevention System (ids) designed to monitor various activities on a host system, detect suspicious behavior, and alert the user to possible threats. The IDS includes file system, network, and process monitoring, as well as anomaly detection features.
+
+## Markdown installation these tools
+
+- Python
+- Watchdog
+- Tkinter
+- psutil
+- Scikit-learn (Isolation Forest)
+- AI-assisted development tools
 
 ## Features
 
